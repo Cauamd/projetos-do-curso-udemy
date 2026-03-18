@@ -9,8 +9,8 @@ body {
    justify-content: center; 
     min-height: 100vh;
     flex-direction: column;
-    width: 100%;              /* Tamanho proporcional */
-  max-width: 900px;        /* Tamanho máximo (recomendado para responsividade) */
+    width: 100%;              
+  max-width: 900px;        
   margin: 0 auto; 
 }
 #menu{
